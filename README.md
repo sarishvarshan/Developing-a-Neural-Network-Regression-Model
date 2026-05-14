@@ -45,9 +45,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: Adithya Sivakumar
+### Name: Sarish Varshan V
 
-### Register Number: 212224040013
+### Register Number: 212223230196
 
 ```python
 from google.colab import drive
